@@ -1,0 +1,9 @@
+/uploads/pdf/*
+!/uploads/pdf/.gitkeep
+/uploads/audio/*
+!/uploads/audio/.gitkeep
+/uploads/covers/*
+!/uploads/covers/.gitkeep
+.env
+.DS_Store
+*.log
